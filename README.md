@@ -1,20 +1,57 @@
 ## Hi there 👋 I am Hassan Sani
+[![Visits Badge](https://badges.pufler.dev/visits/inidaname/inidaname)](https://hassansani.me)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/inidname)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Channel-informational?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://www.youtube.com/channel/UC_xVWhxey-BRUf0CZ8CYagg)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/inidaname/)
+[![Dev Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=dev.to&logoColor=white&color=black)](https://dev.to/inidaname) 
 
-A passionate problem solver using codes.
+A passionate problem solver. I love the challenge of simplifying things to solve practical problems with an innovative solution, using codes to improve the lives of a community.
 
-I agree the six words rule in the above sentence isn't enough, and a six-page description of a not so boring software developer will be too much. But, can I get your six minutes tops with a six-paragraph of who I am? and this was one of the six.
+### Latest Articles
 
-### 🤔 I’m Open to new Opportunities
-I will assume you are still reading. So I will like you to know that I am looking for new opportunities 😁.
+<!-- ### Latest Videos -->
 
-I love the challenge of simplifying things, the challenge to solve practical problems with a simple innovative solution, I am passionate about the skills of using programming languages to transform and improve the lives of a community.
+[![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=inidaname&show_icons=true)](https://github.com/inidaname)
 
-This passion has guided me through my career, as a volunteer at Action Democratic Party, my responsibility was to build a website for the party but I saw a potential to simplify the management process of the political party, I set up a team of volunteer developers and built the only political party application in Nigeria.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inidaname&exclude_repo=asp_nnl)](https://github.com/inidaname)
 
-Now that’s not all about me, I love learning, advancing on my skills and learning new ones, this is why I spend my free time contributing to open source projects and reading books. This shouldn’t define that I have no life beyond code, I play any soccer game PES or FIFA and I’m a freak for One Night Ultimate Werewolf.
 
-I told you, six-paragraph and I’m not even a writer (yet), even though I have written some articles on dev.to, medium and LinkedIn, you can check them out, so my skills include writing, JavaScript, typescript, Reactjs, Angular, Node.js, HTML, CSS, SASS and Go (this one I’m still learning). Like I said, I am open to exploring new opportunities, and hey, we should connect, you know so much about me already.
+### Skills
 
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-RxJs-informational?style=flat&logo=rxjs&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ngrx-informational?style=flat&logo=ngrx&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
+
+
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=4AB197)
+
+
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
+
+![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
 <!--
 **inidaname/inidaname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
