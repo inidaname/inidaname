@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/inidaname/)
 [![Dev Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=dev.to&logoColor=white&color=black)](https://dev.to/inidaname) 
 
-A passionate problem solver. I love the challenge of simplifying things to solve practical problems with an innovative solution, using codes to improve the lives of a community.
+I write codes, I'm tired of using buzzwords to explain that.
 
 ### My Stats
 
