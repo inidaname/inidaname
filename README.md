@@ -54,3 +54,6 @@ I write codes, I'm tired of using buzzwords to explain that.
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
+
+## Actively coding
+![](https://wakatime.com/share/@67d853cd-f887-4393-8007-54142bcadd28/1be0bf7c-dd06-4b0e-b502-6d3d580a5367.svg)
