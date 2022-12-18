@@ -7,7 +7,7 @@
 
 I'm a software developer with more than 4 years of experience working with JavaScript, Typescript, React, React Native, GraphQL, Nodejs, and Python. I have worked with large and small startups, both remote and on-site.
 
-In my day-to-day roles, I have used frontend tools like React and React Native to build applications including e-commerce and data analytics apps. Used Node.js to build Rest and GraphQL APIs.
+In my day-to-day roles, I have used frontend tools like React and React Native to build applications including e-commerce and data analytics apps. Used Node.js and Python to build Rest and GraphQL APIs.
 
 ### My Stats
 
