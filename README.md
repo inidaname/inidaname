@@ -1,13 +1,13 @@
-## Hi there 👋 I am Hassan Sani
+## Hi there 👋 This is Hassan Sani
 [![Visits Badge](https://badges.pufler.dev/visits/inidaname/inidaname)](https://hassansani.me)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/inidname)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Channel-informational?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://www.youtube.com/channel/UC_xVWhxey-BRUf0CZ8CYagg)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/inidaname/)
 [![Dev Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=dev.to&logoColor=white&color=black)](https://dev.to/inidaname) 
 
-I'm a software developer with more than 4 years of experience working with JavaScript, Typescript, React, React Native, GraphQL, Nodejs, and Python. I have worked with large and small startups, both remote and on-site.
+Hassan is a software developer with more than 5 years of experience working with JavaScript, Typescript, React, React Native, GraphQL, Nodejs, and Python. He has worked with large and small startups, both remote and on-site.
 
-In my day-to-day roles, I have used frontend tools like React and React Native to build applications including e-commerce and data analytics apps. Used Node.js and Python to build Rest and GraphQL APIs.
+In his day-to-day roles, he uses frontend tools like React and React Native to build applications including e-commerce and data analytics apps. He has worked with Node.js and Python to build Rest and GraphQL APIs.
 
 ### My Stats
 
