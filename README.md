@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/inidaname/)
 [![Dev Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=dev.to&logoColor=white&color=black)](https://dev.to/inidaname) 
 
-Hassan is a software developer with more than 5 years of experience working with JavaScript, Typescript, React, React Native, GraphQL, Nodejs, and Python. He has worked with large and small startups, both remote and on-site.
+Hassan is a software developer with more than 6 years of experience working with JavaScript, Typescript, React, React Native, GraphQL, Nodejs, and Python. He has worked with large and small startups, both remote and on-site.
 
 In his day-to-day roles, he uses frontend tools like React and React Native to build applications including e-commerce and data analytics apps. He has worked with Node.js and Python to build Rest and GraphQL APIs.
 
