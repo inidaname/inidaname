@@ -19,18 +19,18 @@ In his day-to-day roles, he uses frontend tools like React and React Native to b
 
 ### Skills
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=4AB197)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&color=4AB197)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&color=4AB197)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&color=4AB197)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=4AB197)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=4AB197)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=4AB197)
 ![](https://img.shields.io/badge/Code-RxJs-informational?style=flat&logo=rxjs&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ngrx-informational?style=flat&logo=ngrx&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ngrx-informational?style=flat&logo=ngrx&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&color=4AB197)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
 
 
