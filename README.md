@@ -42,9 +42,9 @@ In his day-to-day roles, he uses frontend tools like React and React Native to b
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=4AB197)
 
 
-![](https://img.shields.io/badge/Tool-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tool-Kubernates-informational?style=flat&logo=kubernetes&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tool-Terraform-informational?style=flat&logo=terraform&logoColor=7B42BC&color=4AB197)
+![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=326CE5&color=4AB197)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=1D63ED&color=4AB197)
 ![](https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
