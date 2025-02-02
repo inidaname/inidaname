@@ -29,6 +29,7 @@ In his day-to-day roles, he uses frontend tools like React and React Native to b
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&color=4AB197)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=4AB197)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=4AB197)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=281C1C&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=4AB197)
 ![](https://img.shields.io/badge/Code-RxJs-informational?style=flat&logo=rxjs&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ngrx-informational?style=flat&logo=ngrx&color=4AB197)
