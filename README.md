@@ -8,7 +8,7 @@
 
 Hassan is a software developer with more than 6 years of experience working with JavaScript, Typescript, React, React Native, GraphQL, Nodejs, and Python. He has worked with large and small startups, both remote and on-site.
 
-In his day-to-day roles, he uses frontend tools like React and React Native to build applications including e-commerce and data analytics apps. He has worked with Node.js and Python to build Rest and GraphQL APIs.
+In his day-to-day roles, he uses frontend tools like React and React Native to build applications including e-commerce and data analytics apps. He has worked with Node.js, Golang, Rust and Python to build Rest and GraphQL APIs.
 
 ### My Stats
 
