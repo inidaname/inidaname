@@ -4,7 +4,7 @@
 [![X Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=x&logoColor=white&color=1CA2F1)](https://x.com/inidaname)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Channel-informational?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://www.youtube.com/channel/UC_xVWhxey-BRUf0CZ8CYagg)
 
-I'm a software developer who enjoys building systems that ship — from MVPs to full platforms. I like solving real problems, moving fast, and designing codebases that don’t surprise anyone at 2am.
+I'm a software developer building systems  — from MVPs to full platforms. I like solving real problems, moving fast, and designing scalable codebases.
 
 At Finecore, I currently lead a team building banking infrastructure for African SMEs. I stepped in to help the team rebuild momentum — now we're delivering features consistently and with clarity.
 
