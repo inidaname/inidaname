@@ -6,9 +6,12 @@
 
 
 
-Hassan is a software developer with more than 6 years of experience working with JavaScript, Typescript, React, React Native, GraphQL, Nodejs, and Python. He has worked with large and small startups, both remote and on-site.
+I'm a software developer who enjoys building systems that ship — from MVPs to full platforms. I like solving real problems, moving fast, and designing codebases that don’t surprise anyone at 2am.
 
-In his day-to-day roles, he uses frontend tools like React and React Native to build applications including e-commerce and data analytics apps. He has worked with Node.js, Golang, Rust and Python to build Rest and GraphQL APIs.
+At Finecore, I currently lead a team building banking infrastructure for African SMEs. I stepped in to help the team rebuild momentum — now we're delivering features consistently and with clarity.
+
+Beyond product delivery, I care deeply about how things run. I've containerized services, automated deployments, and am currently working with Kubernetes and Infrastructure as Code to scale personal and team projects.
+
 
 ### My Stats
 
