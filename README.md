@@ -1,10 +1,8 @@
 ## Hi there 👋 This is Hassan Sani
-[![X Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=x&logoColor=white&color=1CA2F1)](https://x.com/inidaname)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Channel-informational?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://www.youtube.com/channel/UC_xVWhxey-BRUf0CZ8CYagg)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/inidaname/)
 [![Dev Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=dev.to&logoColor=white&color=black)](https://dev.to/inidaname) 
-
-
+[![X Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=x&logoColor=white&color=1CA2F1)](https://x.com/inidaname)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Channel-informational?style=flat&logo=youtube&logoColor=white&color=FF0000)](https://www.youtube.com/channel/UC_xVWhxey-BRUf0CZ8CYagg)
 
 I'm a software developer who enjoys building systems that ship — from MVPs to full platforms. I like solving real problems, moving fast, and designing codebases that don’t surprise anyone at 2am.
 
@@ -12,7 +10,11 @@ At Finecore, I currently lead a team building banking infrastructure for African
 
 Beyond product delivery, I care deeply about how things run. I've containerized services, automated deployments, and am currently working with Kubernetes and Infrastructure as Code to scale personal and team projects.
 
+### Tech I'm working with:
+Go, TypeScript, Prisma, PostgreSQL, Docker, GitHub Actions, AWS, ArgoCD
 
+### Currently learning:
+gRPC microservices, GitOps, Kubernetes cluster design
 ### My Stats
 
 <!-- ### Latest Videos -->
